@@ -1,0 +1,4 @@
+repository "BecomeKing@wechat_os_qy04gftqmmftdtxioudr77zfm@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
